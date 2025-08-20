@@ -4,17 +4,17 @@
     "url": "https://pptk.ai",
     "icon": "https://icons.duckduckgo.com/ip3/pptk.ai.ico",
     "slug": "pptk-ai-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 353,
-    "timeWeek": 268,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 243,
+    "timeDay": 260,
+    "timeWeek": 255,
+    "timeMonth": 243,
+    "timeYear": 243,
     "dailyMinutesDown": {}
   }
 ]
