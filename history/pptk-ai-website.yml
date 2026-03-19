@@ -1,7 +1,7 @@
 url: https://pptk.ai
-status: up
-code: 200
-responseTime: 177
-lastUpdated: 2026-03-18T23:24:45.221Z
+status: down
+code: 502
+responseTime: 273
+lastUpdated: 2026-03-19T13:49:29.344Z
 startTime: 2025-08-05T04:10:09.643Z
 generator: Upptime <https://github.com/upptime/upptime>
