@@ -5,21 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/pptk.ai.ico",
     "slug": "pptk-ai-website",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.49%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.52%",
     "time": 224,
-    "timeDay": 212,
-    "timeWeek": 187,
+    "timeDay": 0,
+    "timeWeek": 174,
     "timeMonth": 212,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2026-03-19": 49,
       "2026-06-01": 1099,
       "2026-05-31": 948,
-      "2026-08-10": 304
+      "2026-08-10": 304,
+      "2026-09-20": 131
     }
   }
 ]
